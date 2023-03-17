@@ -1,2 +1,1 @@
-~42piscine生に向けて~
-
+42piscine生に向けて
